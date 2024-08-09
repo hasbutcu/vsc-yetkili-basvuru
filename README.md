@@ -6,7 +6,7 @@
 - **type:** Oynuyor kısmı tipi ===> `PLAYING` = Oynuyor, `LISTENING` = Dinliyor, `WATCHING` = İzliyor.
 - **status:** Botun durumu (`online` = Aktif, `dnd` = Rahatsız Etme, `idle` = Boşta, `invisible` = Görünmez).
 
-#PROJE GLİTCH DESTEKLEMEZ!
+# PROJE GLİTCH DESTEKLEMEZ!
 
 ### Kurulum Yapmak İçin kurulum.bat Dosyasını Çalıştırmanız Yeterli Olucaktır
 ## Botu Başlatmak İçin başlat.bat Dosyasını Çalıştırmanız Yeterli Olucaktır.
