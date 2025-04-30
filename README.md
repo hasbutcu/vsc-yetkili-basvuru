@@ -10,9 +10,10 @@
 
 ### Kurulum Yapmak İçin kurulum.bat Dosyasını Çalıştırmanız Yeterli Olucaktır
 ## Botu Başlatmak İçin başlat.bat Dosyasını Çalıştırmanız Yeterli Olucaktır.
-#### İzinsiz paylaşılması yasaktır. DC:has.dev
+#### İzinsiz paylaşılması yasaktır. DC:oxyinc
 
 **Hatalar İçin Discord Sunucumuza Gelebilirsiniz**
 [discord.gg/vsc](https://www.discord.gg/vsc)
 
-**Bu proje [MIT Lisansı](https://github.com/hasbutcu/vsc-yetkili-basvuru/blob/main/LICENSE) ile lisanslanmıştır.**
+**Bu proje, Oxy Yazılım Lisansı v1.0 kapsamında sunulmaktadır.  
+Yazılımın izinsiz kopyalanması, dağıtılması veya değiştirilmesi yasaktır.**
