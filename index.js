@@ -19,6 +19,11 @@ for (const file of commandFiles) {
     client.commands.set(command.data.name, command);
 }
 
+
+
+require('./deploy-commands.js');
+
+
 // Event'leri yükleme
 const eventsPath = path.join(__dirname, 'events');
 const eventFiles = fs.readdirSync(eventsPath).filter(file => file.endsWith('.js'));
